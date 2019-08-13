@@ -1,11 +1,11 @@
 
 #include "utils_xyz.h"
 
-//namespace xyz {
-//	namespace util {
+namespace xyz {
+	namespace util {
 		// Simple test method
 		string ping(string s) {
-			return "Hello " + s;
+			return "Namaste " + s;
 		}
 
 		//
@@ -37,5 +37,5 @@
 
 			return result;
 		}
-//	}
-//}
+	}
+}
