@@ -1,5 +1,5 @@
 # xyc_shared_lib
-Simple cmake shared lib example (Windows/Linux - C++)
+Simple cmake shared lib example (Windows/Linux - C++). Creates and DLL in Windows and shared lib in Linux and OSX.
 
 
 ## Build Steps
